@@ -1,2 +1,2 @@
 # test-bear
-This is test bear file
+This is project description.
